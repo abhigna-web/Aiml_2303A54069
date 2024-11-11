@@ -3,3 +3,5 @@ Lab-1 Assignment - https://github.com/abhigna-web/Aiml_2303A54069/commit/bdc26ae
 Lab-2 Assignment-  https://github.com/abhigna-web/Aiml_2303A54069/blob/1004244ec631cf71f0a19eff501a130586917620/Lab_2.ipynb
 
 Lab-3 Assignment- https://github.com/abhigna-web/Aiml_2303A54069/blob/1943c22d67bf72f443481b2e2b46f4356bbf11d4/Lab03-AIML.ipynb
+
+Lab-4 Assignment- https://github.com/abhigna-web/Aiml_2303A54069/blob/813ca217aa7c59dee1ad04faceea6df6b1414cf8/Lab04_AIML_ipynb_txt.ipynb
